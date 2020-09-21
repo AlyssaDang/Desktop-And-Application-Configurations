@@ -82,4 +82,8 @@ Icons (Custom):
               Dialogs: 32
 Curser: StarLabs
 Display and Monitor: 3840x2160 @225%
+Browser: Firefox
+        Theme: Dark Aubergine
 </code></pre>
+
+![Desktop Image](./Ubuntu_Images/Desktop1.png)

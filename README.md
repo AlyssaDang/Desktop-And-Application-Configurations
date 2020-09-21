@@ -25,7 +25,7 @@ Hard Drive: 64GB SD
 OS: Ubuntu 20.04.1 LTS x64 - DE: Gnome
 
 ### Lenovo X1 Carbon Gen 7
-<code>
+<code><pre>
 OS1: Ubuntu 20.04.1 LTS x64 - KDE: Plasma
 Global Theme: Qogir
 Plasma Style: Starcraft
@@ -76,4 +76,4 @@ Icons (Custom):
               Dialogs: 32
 Curser: StarLabs
 Display and Monitor: 3840x2160 @225%
-</code>
+</pre></code>

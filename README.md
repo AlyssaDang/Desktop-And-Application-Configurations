@@ -87,3 +87,7 @@ Browser: Firefox
 </code></pre>
 
 ![Desktop Image](./Ubuntu_Images/Desktop1.png)
+![Konsole Terminal Image](./Ubuntu_Images/Terminal1.png)
+![Browser Image](./Ubuntu_Images/Browser1.png)
+![Atom Text Editor Image](./Ubuntu_Images/Atom1.png)
+

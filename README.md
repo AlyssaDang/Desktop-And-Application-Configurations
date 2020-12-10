@@ -13,6 +13,16 @@ OS1: Ubuntu 20.04.1 LTS x64 - KDE: Plasma
 OS2: Windows 10 x64
 </code></pre>
 
+<pre> Lenovo X1 Carbon Gen 8
+<code>
+CPU: Intel i7-10510U (8) @4.900GHz
+RAM: 16 GB LPDDR3 2133MHz
+Hard Drive: 1TB SSD
+Dual Boot:
+OS1: Ubuntu 20.04.1 LTS x64 - KDE: Plasma
+OS2: Windows 10 x64
+</code></pre>
+
 <pre> Lenovo Thinkpad T480
 <code>
 CPU: Intel i7-9750H (9) @4.500GHz
